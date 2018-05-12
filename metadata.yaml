@@ -1,15 +1,21 @@
 _repo: Outlines-of-Creation_48876
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Dalziel, The Brothers
     gutenberg_agent_id: '45014'
     url: http://www.gutenberg.org/2009/agents/45014
+covers:
+- cover_type: archival
+  image_path: 48876-h/images/cover.jpg
 creator:
   author:
     agent_name: Noyce, Elisha
     gutenberg_agent_id: '45013'
     url: http://www.gutenberg.org/2009/agents/45013
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48876#Outlines-of-Creation
 gutenberg_issued: '2015-05-04'
 gutenberg_type: Text
 identifiers:
